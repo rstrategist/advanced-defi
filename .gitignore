@@ -6,3 +6,6 @@ tmp.ipynb
 tmp.excalidraw
 tmp.txt
 tmp.excalidraw
+
+# Dotenv files
+.env
